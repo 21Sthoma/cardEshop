@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: "Libre Franklin";
+}
+
+@media screen and (max-width: 950px) {
+  .item{
+    margin-bottom: 2rem;
+  }
+}
+
+#topContainer {
+  padding: 3% 4%;
+  text-align: center;
+  background-color: #E8F9FD;
+
+}
+
+#collection {
+  padding: 3% 15%;
+  text-align: center;
+  color: black;
+}
+.mainHeading {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin: 5rem 0 0 0;
+}
+.topImages {
+  width: 70%;
+}
+
+.itemCards {
+  height: 100%;
+  padding: 3% 15%;
+}
